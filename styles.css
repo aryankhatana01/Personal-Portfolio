@@ -212,3 +212,17 @@ a:visited {
     height: 150px;
     width: 150px;
 }
+
+.proj-content {
+    display: flex;
+}
+
+.section-r {
+    margin-left: 420px;
+    margin-top: 50px;
+}
+
+.denom {
+    height: 180px;
+    width: 180px;
+}
