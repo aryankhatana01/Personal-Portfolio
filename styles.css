@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;300;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@600;400;700&family=Poppins:wght@500;600;500;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cantarell&family=Inconsolata:wght@600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@500&display=swap');
+
+
+.header {
+    width: 100%;
+    max-width: 1000px;
+}
+
+.linkedin {
+    width: 22px;
+    height: 22px;
+}
+
+.gmail {
+    width: 22px;
+    height: 22px;
+}
+
+.github {
+    width: 22px;
+    height: 22px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.name {
+    font-family: 'Inconsolata', sans-serif;
+    font-weight: 700;
+    font-size: 2.5em;
+    text-align: center;
+    cursor: pointer;
+}
+
+.logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1em;
+    gap: 1rem;
+    margin-top: -5px;
+}
+
+
+/* .main-content {
+    max-width: 1000px;
+} */
+
+.section-title {
+    padding: 10px;
+    border-bottom: 3px solid black;
+    margin: auto;
+    /* max-width: 1000px; */
+    margin-top: 4rem;
+}
+
+
+.about {
+    font-family: 'Inconsolata', sans-serif;
+    font-weight: 400;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 1.1em;
+    /* text-align: center; */
+}
+
+.about-section {
+    max-width: 1000px;
+    /* border: 2px dashed black; */
+    margin: auto;
+}
+
+.greeting {
+    text-align: center;
+}
+
+.about-text {
+    text-align: center;
+    font-family: "Cantarell"
+}
+
+.experience-section {
+    max-width: 1000px;
+    /* border: 2px dashed black; */
+    margin: auto;
+}
+
+.exp1 {
+    margin-top: 2rem;
+    border-bottom: 2px solid black;
+    width: 215px;
+    height: 30px;
+    /* display: flex; */
+}
+
+.exp-title {
+    font-family: 'Zilla Slab', serif;
+    font-weight: 500;
+    font-size: 1.2em;
+}
+
+.exp1-content {
+    width: 900px;
+    gap: 100px;
+    display: flex;
+}
+
+
+.scaletorch-logo {
+    width: 180px;
+    height: 180px;
+}
+
+ul {
+    line-height: 20px;
+}
+
+.bullet-text {
+    font-family: 'Cantarell', sans-serif;
+    font-weight: 400;
+    font-size: small;
+}
+
+.exp-title-2 {
+    font-family: 'Zilla Slab', serif;
+    font-weight: 500;
+    font-size: 1.2em;
+}
+
+.exp2 {
+    margin-top: 2rem;
+    margin-bottom: 30px;
+    border-bottom: 2px solid black;
+    width: 245px;
+    height: 30px;
+}
+
+
+.ivy-logo {
+    width: 120px;
+    height: 120px;
+    margin-left: 50px;
+    margin-top: -15px;
+}
+
+.duration {
+    font-family: 'Cantarell', sans-serif;
+    font-weight: 400;
+    color: rgb(108, 108, 108);
+    font-size: 10px;
+}
+
+
+.kaggle-logo {
+    height: 110px;
+    width: 110px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.exp3-content {
+    width: 900px;
+    gap: 50px;
+    display: flex;
+}
