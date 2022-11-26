@@ -173,3 +173,42 @@ ul {
     gap: 50px;
     display: flex;
 }
+
+.proj-section {
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 740px;
+}
+
+.ext-links {
+    height: 18px;
+    width: 18px;
+}
+
+.section-l {
+    margin-top: 2rem;
+    border-bottom: 2px solid black;
+    width: 318px;
+    height: 30px;
+}
+
+.proj-name {
+    font-family: 'Zilla Slab', serif;
+    font-weight: 500;
+    font-size: 1.2em;
+}
+
+a:visited { 
+    text-decoration: none; 
+    color: black; 
+}
+
+.proj-stuff {
+    width: 500px;
+    display: flex;
+}
+
+.denom {
+    height: 150px;
+    width: 150px;
+}
