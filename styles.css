@@ -180,6 +180,12 @@ ul {
     margin-top: 740px;
 }
 
+.footer {
+    max-width: 1000px;
+    margin: auto;
+    margin-top: -50px;
+}
+
 .ext-links {
     height: 18px;
     width: 18px;
@@ -214,8 +220,27 @@ a:visited {
     width: 150px;
 }
 
+.tankstars {
+    height: 150px;
+    width: 240px;
+    border-radius: 10px;
+    margin-top: -30px
+}
+
+.makere {
+    height: 230px;
+    width: 230px;
+    border-radius: 10px;
+    margin-top: -50px
+}
+
 .proj-content {
     display: flex;
+}
+
+.proj-content-2 {
+    display: flex;
+    margin-top: 30px;
 }
 
 .section-r {
@@ -226,4 +251,39 @@ a:visited {
 .denom {
     height: 180px;
     width: 180px;
+}
+
+.c {
+    width: 40px;
+    height: 40px;
+}
+
+.skills-top-row {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 10px;
+    align-items: center;
+}
+
+.footer-text {
+    font-family: 'Cantarell', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: rgb(70, 70, 70);
+    text-align: center;
+    margin-top: 20px;
+}
+
+.footer-div {
+    margin-top: 3rem;
+    display: flex;
+    gap: 3px;
+    justify-content: center;
+}
+
+.copyright {
+    width: 10px;
+    height: 10px;
+    margin-top: 24px;
 }
