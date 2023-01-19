@@ -287,3 +287,10 @@ a:visited {
     height: 10px;
     margin-top: 24px;
 }
+
+.melodet {
+    height: 150px;
+    width: 300px;
+    border-radius: 10px;
+    margin-top: -30px
+}
